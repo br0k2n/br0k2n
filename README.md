@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/goddue-ffffff?style=plastic&logo=LINE&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/goddue-ffffff?style=flat-square&logo=LINE&logoColor=00C300"/></a>
 
 <!--
 **Br0k2n/Br0k2n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
